@@ -5,7 +5,7 @@ QMSS Candidate at Columbia University. Proficient knowledge in statistics, econo
 
 ## Summary
 
-For the past 5 years, l have been continuously developing both theoretical and practical knowledge through various courses and internships, and I hope to continue honing my skills in the field of data analysis. I am proficient in a number of data management systems and computer skills, including Python, SQL, R, Stata, QGIS, Geoda and Excel.
+For the past 5 years, l have been continuously developing my theoretical and practical knowledge through various courses and internships, and I hope to continue honing my skills in the field of data analysis. I am proficient in a number of data management systems and computer skills, including Python, SQL, R, Stata, QGIS, Geoda and Excel.
 
 I like to explore the relationship between numbers and translate numbers and spreadsheets into words. In the era of big data, these words have become operational solutions and strategies for enterprises. I feel pride for making data more accessible to others. 
 
